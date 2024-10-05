@@ -1,0 +1,614 @@
+#greybackground {
+
+    position: absolute;
+
+
+    left: 0;
+
+
+    top:0;
+
+    right: 0;
+
+
+    bottom: 0;
+
+
+    background-color: #222222;
+
+
+    width: 900px;
+
+
+    height: 900px;
+
+
+    
+    background-blend-mode: darken;
+
+    background-size: 1100px;
+
+
+   
+border-radius: 5px;
+
+
+}
+
+
+
+
+
+
+.fun {
+position: absolute;
+
+
+font-size: 60px;
+
+font-weight: 8;
+
+
+
+
+
+
+}
+
+
+
+#name {
+
+
+
+    margin-left: 1000px;
+
+
+    margin-top: 240px
+}
+
+
+
+.small {
+
+    position: absolute;
+
+    font-weight: 8;
+
+    color: darkgrey;
+
+   
+
+    font-size: 20px;
+
+}
+
+
+
+#body {
+
+
+
+    margin-left: 1003px;
+
+
+    margin-top: 300px
+}
+
+
+
+.buttons {
+
+    display: flex;
+
+    flex-direction: column;
+
+    align-items: center;
+
+    justify-content: center;
+    position: relative;
+
+
+    width: 40px;
+
+
+    height: 40px;
+
+
+    border-radius: 25px;
+
+    border-color: black;
+
+    background-color: #141414;
+
+
+    border-style: hidden;
+
+    transition: .25s;
+
+
+
+
+
+    margin-bottom: 15px;
+
+
+  
+  margin-left: 870px;
+
+
+  overflow: hidden;
+
+
+
+
+
+
+top: 300px;
+
+
+
+}
+
+
+.buttons:hover {
+
+    width: 42px;
+
+
+    height: 43px;
+
+
+
+
+
+  
+
+
+
+}
+
+
+
+#inst {
+
+width: 20px;
+
+height: 20px;
+
+border-radius: 5px;
+
+
+}
+
+
+#in {
+
+
+
+    width: 20px;
+
+    height: 20px;
+    
+    border-radius: 5px;
+
+}
+
+
+#twitter {
+
+    width: 18px;
+
+    height: 18px;
+    
+    border-radius: 5px;
+
+
+}
+
+#asd {
+    margin-left: 1003px;
+
+
+    margin-top: 300px;
+
+
+
+   font-size: 35px;
+
+
+   
+
+   
+
+
+
+
+}
+
+#body1 {
+
+
+
+position: absolute;
+
+font-weight: 8;
+
+color: darkgrey;
+
+
+
+font-size: 20px;
+
+
+width: 600px;
+
+
+margin-left: 999px;
+
+
+top: 340px;
+
+}
+
+.container1  {
+
+    display: flex;
+
+    
+   
+    
+
+   
+    position: relative;
+
+
+    width: 40px;
+
+
+    height: 40px;
+
+
+    
+
+    border-color: black;
+
+    
+
+
+    border-style: hidden;
+
+    transition: .25s;
+
+
+
+
+
+    
+
+
+  
+  margin-right: 25px;
+
+
+  overflow: hidden;
+
+
+
+
+
+
+top: 740px;
+
+
+
+left: 730px;
+
+
+
+
+}
+
+
+#boxxx {
+
+    display: flex;
+
+    justify-content: flex-start;
+
+    align-items: center;
+}
+
+
+.h333 {
+
+    display: flex;
+
+    
+   
+    
+
+   
+    position: relative;
+
+
+    top: 780px;
+
+
+    left: 700px;
+
+
+    
+}
+
+
+#box2{
+
+    position: absolute;
+    background-color: whitesmoke;
+
+
+
+    top: 1050px;
+
+    height: 850px;
+    width: 1850px;
+
+    left: 0;
+
+    right: 0;
+}
+
+
+#vdi {
+
+    width: 1100px;
+
+
+    height: 1100px;
+
+
+    mix-blend-mode: screen;
+
+
+    border-width: 5px;
+
+
+    margin-left: -200px;
+
+
+    margin-top: -200px;
+
+
+    
+    overflow: hidden;
+
+   opacity: 0.35;
+
+   
+}
+
+
+#box3 {
+
+    position: absolute;
+    background-color: #222222;
+
+
+
+    top: 1870px;
+
+    height: 350px;
+    width: 1850px;
+
+    left: 0;
+}
+
+#name2 {
+
+
+
+   color: white;
+font-size: 20px;
+
+  font-weight: normal;
+
+
+  font-family: Arial, Helvetica, sans-serif;
+
+
+  letter-spacing: 1px;
+
+
+  margin-left: 200px;
+
+  margin-top: 50px;
+
+  
+}
+
+#desc {
+
+    color: darkgrey;
+    font-weight: 8;
+
+    color: darkgrey;
+
+   
+
+    font-size: 20px;
+    
+    
+      
+    
+    
+      letter-spacing: 1px;
+    
+    
+      margin-left: 200px;
+    
+      margin-top: 50px;
+      width: 500px;
+
+
+      margin-top: 10px;
+
+}
+
+
+#phone {
+
+
+    position: relative;
+    width: 35px;
+
+    height: 35px;
+
+
+    
+
+    left: 190px;
+
+    background-color: white;
+
+    border-radius: 10px;
+
+  
+}
+
+#number {
+
+    position: absolute;
+
+
+    left: 240px;
+
+   margin-top: -30px;
+
+   color: white;
+
+   font-weight: 8;
+}
+
+
+#email{
+
+    position: relative;
+    width: 35px;
+
+    height: 35px;
+
+
+    
+
+    left: 150px;
+
+    top: 50px;
+
+    background-color: white;
+
+    border-radius: 10px;
+
+
+}
+
+
+#email1 {
+
+
+    position: absolute;
+
+
+    left: 240px;
+
+   margin-top: 15px;
+
+   color: white;
+
+   font-weight: 8;
+}
+
+#input1 {
+position: relative;
+background-color: darkgrey;
+
+
+height: 25px;
+
+
+left: 700px;
+
+top: -150px;
+border-radius: 10px;
+}
+
+#inputemail{
+
+    position: relative;
+background-color: darkgrey;
+
+
+height: 25px;
+
+
+left: 720px;
+
+top: -150px;
+
+border-radius: 10px;
+}
+
+#message {
+   
+    position: absolute;
+    background-color: darkgrey;
+    
+    
+    height: 75px;
+    
+    
+    left: 778px;
+    
+   top: 90px;
+
+   width: 370px;
+
+
+
+   vertical-align: top;
+
+   border-radius: 10px;
+}
+
+
+#send {
+
+position: relative;
+
+    left: 515px;
+
+    top: -15px;
+
+    width: 200px;
+
+    background-color: white;
+
+    height: 35px;
+
+    border-radius: 10px;
+
+    
+}
+
+#Header {
+
+    position: absolute;
+
+
+    letter-spacing: 3px;
+
+    left: 200px;
+
+
+    top:60px
+}
